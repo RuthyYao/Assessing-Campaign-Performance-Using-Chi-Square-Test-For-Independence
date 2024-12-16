@@ -1,4 +1,4 @@
-# Assessing Campaign Performance Using Chi-Square Test For Independence
+# Using A/B Test to Determine the Best Mailer
 
 ![ab-testing-title-img](./images/ab-testing-title-img.png)
 
@@ -44,7 +44,7 @@ Based upon these statistics, we retain the null hypothesis, and conclude that th
 
 In other words - while we saw that the higher cost Mailer 2 had a higher signup rate (37.8%) than the lower cost Mailer 1 (32.8%) it appears that this difference is not significant, at least at our Acceptance Criteria of 0.05.
 
-### Business Impact and Application
+## Business Impact and Application
 
 Without running this Hypothesis Test, the client may have concluded that they should always look to go with higher cost mailers - and from what we've seen in this test, that may not be a great decision.  It would result in them spending more, but not *necessarily* gaining any extra membership sign-up and revenue as a result.
 
