@@ -53,6 +53,6 @@ Our results here also do not say that there *definitely isn't a difference betwe
 Running more A/B Tests like this, gathering more data, and then re-running this test may provide us, and the client more insight!
 
 ***
-See the full analysis in my [Jupyter Notebook](./Data_Insights_for_New_Movie_Studio.ipynb) or review this [presentation](./Data_Insights_for_New_Movie_Studio_presentation.pdf).
+See the full analysis in my [Jupyter Notebook](./determine_best_mailer_notebook.ipynb) or review this [presentation](./determine_best_mailer_presentation.pdf).
 
 For additional info, contact Ruthy Yao at [zejia.yao@gmail.com](mailto:zejia.yao@gmail.com)
