@@ -1,4 +1,4 @@
-# Using A/B Test to Determine the Best Mailer
+# Using A/B Test to Choose the Mailer Type
 
 ![ab-testing-title-img](./images/ab-testing-title-img.png)
 
